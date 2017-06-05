@@ -1,4 +1,4 @@
 describe project info
-this is a quick dev skeleton
+bbbbbbbbbbbbbbbbbbbb
 www.ylink.com.cn
 www.baidu.com
